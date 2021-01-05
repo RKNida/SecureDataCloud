@@ -14,7 +14,6 @@ An application that can upload and download files securely over a public DropBox
 ## **To Run This Project:**
 ## **Requirements:**
 - jdk (>=1.7) 
-- mysql 
 - Eclipse/Netbeans/any other IDE 
 - Dropbox Account
 
