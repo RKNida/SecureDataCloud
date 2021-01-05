@@ -1,7 +1,9 @@
 # SecureDataCloud
 
 ## **About:**
-An application that can upload and download files securely over a public DropBox.
+An application that can upload and download files securely over a public DropBox. 
+Application encrypts or decrypts file using RCC (Reverse Ceaser Cypher) encryption-decryption Algorithm. 
+Thus user can upload or download securely from cloud Storage.
 
 ## **Features:**
 - Login using a registered username and password. 
